@@ -59,15 +59,6 @@ A passionate **Python** & **Django** developer who loves learning new things eve
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shayanJR99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanJR99&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
-</div>
-
----
-
 ### 📈 Activity Graph
 
 <div align="center">
