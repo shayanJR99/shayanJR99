@@ -72,6 +72,7 @@ A passionate **Python** & **Django** developer who loves learning new things eve
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**vite-drf-auth-kit**](https://github.com/shayanJR99/vite-drf-auth-kit) | A reusable authentication kit for Django REST Framework | Python, DRF, Vite |
+| [**CRA-drf-auth-kit**](https://github.com/shayanJR99/CRA-drf-auth-kit) | A reusable authentication kit for Django REST Framework | Python, DRF, CRA |
 | [**postino-social-app**](https://github.com/shayanJR99/postino-social-app) | A social app inspired by Threads (work in progress) | CSS, Django |
 | [**CBV-todo-app**](https://github.com/shayanJR99/CBV-todo-app) | Clean Class-Based Views Todo App | Django, CSS |
 | [**django-advance-blog**](https://github.com/shayanJR99/django-advance-blog) | Advanced Django Blog project | Django |
