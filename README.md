@@ -4,8 +4,8 @@
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=shayanJR99&style=flat-square&color=00D9FF" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/shayanJR99?style=flat-square&color=00D9FF&label=Followers" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/shayanJR99?affiliations=OWNER&style=flat-square&color=00D9FF&label=Stars" alt="Stars"/>
   
 </div>
 
@@ -22,6 +22,7 @@ A passionate **Python** & **Django** developer who loves learning new things eve
 - ⚡ Fun fact: I love creating things that others can also use and benefit from
 
 ---
+
 ### 🛠️ Tech Stack
 
 #### 🐍 Backend
@@ -61,33 +62,21 @@ A passionate **Python** & **Django** developer who loves learning new things eve
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shayanJR99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanJR99&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=shayanJR99&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shayanJR99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayanJR99&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech | Stars |
-|---------|-------------|------|-------|
-| [**vite-drf-auth-kit**](https://github.com/shayanJR99/vite-drf-auth-kit) | A reusable authentication kit for Django REST Framework | Python, DRF, Vite | ⭐ |
-| [**postino-social-app**](https://github.com/shayanJR99/postino-social-app) | A social app inspired by Threads (work in progress) | CSS, Django | ⭐ |
-| [**CBV-todo-app**](https://github.com/shayanJR99/CBV-todo-app) | Clean Class-Based Views Todo App | Django, CSS | ⭐ |
-| [**django-advance-blog**](https://github.com/shayanJR99/django-advance-blog) | Advanced Django Blog project | Django | ⭐ |
-| [**project2**](https://github.com/shayanJR99/project2) | Learning project with Django + SCSS | Django, SCSS | ⭐ |
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shayanJR99&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</div>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**vite-drf-auth-kit**](https://github.com/shayanJR99/vite-drf-auth-kit) | A reusable authentication kit for Django REST Framework | Python, DRF, Vite |
+| [**postino-social-app**](https://github.com/shayanJR99/postino-social-app) | A social app inspired by Threads (work in progress) | CSS, Django |
+| [**CBV-todo-app**](https://github.com/shayanJR99/CBV-todo-app) | Clean Class-Based Views Todo App | Django, CSS |
+| [**django-advance-blog**](https://github.com/shayanJR99/django-advance-blog) | Advanced Django Blog project | Django |
+| [**project2**](https://github.com/shayanJR99/project2) | Learning project with Django + SCSS | Django, SCSS |
 
 ---
 
