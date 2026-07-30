@@ -116,7 +116,6 @@ Hey! I'm **Shayan (MR-JR)** — a **Python & Django Developer** who loves learni
   <img src="https://raw.githubusercontent.com/shayanJR99/shayanJR99/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
-> برای فعال شدن این بخش باید یک GitHub Action به نام snake.yml اضافه کنی (توضیحش رو جدا برات می‌فرستم)
 
 <br/>
 
